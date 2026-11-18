@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <MilitaryStances.SettingCategory>Military Stances</MilitaryStances.SettingCategory>
+
+    <MilitaryStances.Settings.Activated>Enable Military Stances</MilitaryStances.Settings.Activated>
+    <MilitaryStances.Settings.ActivatedDesc>Master toggle to enable or disable all Military Stances features.</MilitaryStances.Settings.ActivatedDesc>
+    <MilitaryStances.Settings.ShowButtons>Show stance gizmo buttons</MilitaryStances.Settings.ShowButtons>
+    <MilitaryStances.Settings.ShowButtonsDesc>Toggle whether the Body Stance and Weapon Stance gizmo buttons are shown on selected pawns.</MilitaryStances.Settings.ShowButtonsDesc>
+    <MilitaryStances.Settings.ProneAffectsMoveSpeed>Prone affects movement speed</MilitaryStances.Settings.ProneAffectsMoveSpeed>
+    <MilitaryStances.Settings.ProneAffectsMoveSpeedDesc>When enabled, pawns in the Prone pose move at their crawling speed instead of normal movement speed.</MilitaryStances.Settings.ProneAffectsMoveSpeedDesc>
+    <MilitaryStances.Settings.ProneWeaponBehindPawn>Render weapon underneath pawn when Prone</MilitaryStances.Settings.ProneWeaponBehindPawn>
+    <MilitaryStances.Settings.ProneWeaponBehindPawnDesc>When enabled, sets the carried weapon render layer behind/underneath the pawn while in the Prone stance.</MilitaryStances.Settings.ProneWeaponBehindPawnDesc>
+    <MilitaryStances.Settings.ProneWeaponOffset>Adjust weapon position offset when Prone</MilitaryStances.Settings.ProneWeaponOffset>
+    <MilitaryStances.Settings.ProneWeaponOffsetDesc>Shifts the held weapon off the prone body centerline and adjusts Weapon Stance alignment so the weapon remains clearly positioned.</MilitaryStances.Settings.ProneWeaponOffsetDesc>
+    <MilitaryStances.Settings.ProneWeaponSideOffset>Prone side offset: {0}</MilitaryStances.Settings.ProneWeaponSideOffset>
+    <MilitaryStances.Settings.ProneWeaponSideOffsetDesc>Lateral/chest-side offset applied when aiming prone (and for North/South carried stances) so the weapon is not centered directly on the head/body.</MilitaryStances.Settings.ProneWeaponSideOffsetDesc>
+    <MilitaryStances.Settings.ProneWeaponForwardOffset>Prone forward offset: {0}</MilitaryStances.Settings.ProneWeaponForwardOffset>
+    <MilitaryStances.Settings.ProneWeaponForwardOffsetDesc>Forward offset along the prone facing or aim direction so the weapon sits ahead of the torso/head.</MilitaryStances.Settings.ProneWeaponForwardOffsetDesc>
+    <MilitaryStances.Settings.ProneWeaponStanceVerticalOffset>Prone Weapon Stance vertical offset: {0}</MilitaryStances.Settings.ProneWeaponStanceVerticalOffset>
+    <MilitaryStances.Settings.ProneWeaponStanceVerticalOffsetDesc>Vertical offset adjustment for East/West Weapon Stances (Normal / High / Low) while prone.</MilitaryStances.Settings.ProneWeaponStanceVerticalOffsetDesc>
+    <MilitaryStances.Settings.ResetProneWeaponOffsets>Reset prone offsets</MilitaryStances.Settings.ResetProneWeaponOffsets>
+    <MilitaryStances.Settings.WeaponReadyIncludeMelee>Weapon Stance also affects melee weapons</MilitaryStances.Settings.WeaponReadyIncludeMelee>
+    <MilitaryStances.Settings.WeaponReadyIncludeMeleeDesc>By default, Weapon Stance only affects ranged weapons. Enable this to apply ready poses to melee weapons as well.</MilitaryStances.Settings.WeaponReadyIncludeMeleeDesc>
+    <MilitaryStances.Settings.IgnoreEquippedAngleOffset>Ignore weapon equippedAngleOffset during Weapon Stance</MilitaryStances.Settings.IgnoreEquippedAngleOffset>
+    <MilitaryStances.Settings.IgnoreEquippedAngleOffsetDesc>Normally, equippedAngleOffset calibrates diagonally-drawn weapon textures (such as melee weapons) so they align properly before rotating. Enable this if you use modded weapons whose horizontal textures use equippedAngleOffset as a custom carry tilt.</MilitaryStances.Settings.IgnoreEquippedAngleOffsetDesc>
+
+    <MilitaryStances.PlaySettingToggle>Toggle visibility of Military Stances gizmo buttons.</MilitaryStances.PlaySettingToggle>
+
+    <!-- Body Stance Gizmos -->
+    <MilitaryStances.ToggleBodyStanceLabel>Body Stance: {0}</MilitaryStances.ToggleBodyStanceLabel>
+    <MilitaryStances.ToggleBodyStanceDesc>Toggle whether custom body stance is enabled for this pawn.</MilitaryStances.ToggleBodyStanceDesc>
+
+    <MilitaryStances.ChangeBodyStanceLabel>Stance: {0}</MilitaryStances.ChangeBodyStanceLabel>
+    <MilitaryStances.ChangeBodyStanceDesc>Select the body stance (Stand / Prone) for this pawn.</MilitaryStances.ChangeBodyStanceDesc>
+
+    <MilitaryStances.BodyStance.Stand>Stand</MilitaryStances.BodyStance.Stand>
+    <MilitaryStances.BodyStance.Prone>Prone</MilitaryStances.BodyStance.Prone>
+
+    <!-- Weapon Stance Gizmos -->
+    <MilitaryStances.ToggleWeaponStanceLabel>Weapon Stance: {0}</MilitaryStances.ToggleWeaponStanceLabel>
+    <MilitaryStances.ToggleWeaponStanceDesc>Toggle whether custom weapon stance is enabled while drafted.</MilitaryStances.ToggleWeaponStanceDesc>
+
+    <MilitaryStances.ChangeWeaponReadyStanceLabel>Weapon Ready: {0}</MilitaryStances.ChangeWeaponReadyStanceLabel>
+    <MilitaryStances.ChangeWeaponReadyStanceDesc>Select the weapon ready stance (Normal / High / Low) for this pawn.</MilitaryStances.ChangeWeaponReadyStanceDesc>
+
+    <MilitaryStances.WeaponReady.Normal>Normal (default)</MilitaryStances.WeaponReady.Normal>
+    <MilitaryStances.WeaponReady.High>High</MilitaryStances.WeaponReady.High>
+    <MilitaryStances.WeaponReady.Low>Low</MilitaryStances.WeaponReady.Low>
+
+    <!-- Tales UI Framework Integration -->
+    <MilitaryStances.UI.BodyStancesTitle>Body Stances</MilitaryStances.UI.BodyStancesTitle>
+    <MilitaryStances.UI.ToggleBodyStanceDesc>Enable/disable Body Stances</MilitaryStances.UI.ToggleBodyStanceDesc>
+    <MilitaryStances.UI.EnableBodyStancesFirst>Disabled: Enable Body Stances toggle on the left first.</MilitaryStances.UI.EnableBodyStancesFirst>
+
+    <MilitaryStances.UI.WeaponStancesTitle>Weapon Stances</MilitaryStances.UI.WeaponStancesTitle>
+    <MilitaryStances.UI.ToggleWeaponStanceDesc>Enable/disable Weapon Stances</MilitaryStances.UI.ToggleWeaponStanceDesc>
+    <MilitaryStances.UI.EnableWeaponStancesFirst>Disabled: Enable Weapon Stances toggle on the left first.</MilitaryStances.UI.EnableWeaponStancesFirst>
+
+</LanguageData>
