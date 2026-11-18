@@ -1,0 +1,7 @@
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Assemblies\MilitaryStances.dll
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Assemblies\MilitaryStances.pdb
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Source\obj\Debug\MilitaryStances.csproj.AssemblyReference.cache
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Source\obj\Debug\MilitaryStances.GeneratedMSBuildEditorConfig.editorconfig
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Source\obj\Debug\MilitaryStances.csproj.CoreCompileInputs.cache
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Source\obj\Debug\MilitaryStances.dll
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\MultiProject\Military Stances\1.6\Source\obj\Debug\MilitaryStances.pdb

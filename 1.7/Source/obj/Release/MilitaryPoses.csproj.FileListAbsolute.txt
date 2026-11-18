@@ -1,0 +1,5 @@
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\Military Poses\1.6\Assemblies\MilitaryPoses.dll
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\Military Poses\1.6\Source\obj\Release\MilitaryPoses.csproj.AssemblyReference.cache
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\Military Poses\1.6\Source\obj\Release\MilitaryPoses.GeneratedMSBuildEditorConfig.editorconfig
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\Military Poses\1.6\Source\obj\Release\MilitaryPoses.csproj.CoreCompileInputs.cache
+I:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\Military Poses\1.6\Source\obj\Release\MilitaryPoses.dll
