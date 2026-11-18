@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Developments\\RimWorld Mod Development\\Commissions\\WIP\\Tales of the Rim QoL Mod\\Draft Directions\\1.6\\Source\\RimTemplate.csproj": {}
+  },
+  "projects": {
+    "D:\\Developments\\RimWorld Mod Development\\Commissions\\WIP\\Tales of the Rim QoL Mod\\Draft Directions\\1.6\\Source\\RimTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developments\\RimWorld Mod Development\\Commissions\\WIP\\Tales of the Rim QoL Mod\\Draft Directions\\1.6\\Source\\RimTemplate.csproj",
+        "projectName": "RimTemplate",
+        "projectPath": "D:\\Developments\\RimWorld Mod Development\\Commissions\\WIP\\Tales of the Rim QoL Mod\\Draft Directions\\1.6\\Source\\RimTemplate.csproj",
+        "packagesPath": "C:\\Users\\AiLenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Developments\\RimWorld Mod Development\\Commissions\\WIP\\Tales of the Rim QoL Mod\\Draft Directions\\1.6\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Applications\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AiLenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.6.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

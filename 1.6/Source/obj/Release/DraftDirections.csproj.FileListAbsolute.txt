@@ -1,0 +1,5 @@
+D:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\QoL mods\Draft Directions\1.6\Assemblies\DraftDirections.dll
+D:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\QoL mods\Draft Directions\1.6\Source\obj\Release\DraftDirections.csproj.AssemblyReference.cache
+D:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\QoL mods\Draft Directions\1.6\Source\obj\Release\DraftDirections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\QoL mods\Draft Directions\1.6\Source\obj\Release\DraftDirections.csproj.CoreCompileInputs.cache
+D:\Developments\RimWorld Mod Development\Commissions\WIP\Tales of the Rim Mods\QoL mods\Draft Directions\1.6\Source\obj\Release\DraftDirections.dll
